@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Student Management System",
+  "description": "Full-stack cloud student management platform featuring Spring Boot RESTful APIs, MySQL database, Role-Based Access Control, Docker containerization, Kubernetes on AWS EC2, Terraform IaC, and GitHub Actions CI/CD workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
